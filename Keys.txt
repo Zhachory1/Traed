@@ -1,5 +1,0 @@
-Webhose : 4925740a-a745-4130-8ff4-5a2a5ef3b7cd
-Data    : 1c0449192076f19c7429b2c1ed1c594d
-Salt    : LLks!w/TIs,Bw/TMd;&T4isWCup1d9aintdBld.
-
-https://webhose.io/search?size=1&token=4925740a-a745-4130-8ff4-5a2a5ef3b7cd&format=json&q=(organization%3A%22_____COMPANY______%22)%20language%3A(english)%20thread.country%3AUS%20(site_type%3Anews)
