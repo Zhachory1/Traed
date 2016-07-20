@@ -1,0 +1,32 @@
+html {
+
+}
+
+#login {
+	text-align: center;
+	height: 100vh;
+	background-color: white;
+	box-shadow: -10px 0 20px -10px #222;
+}
+
+input {
+    height: 25px; 
+    width: 80%; 
+    background-color: transparent;  
+    border-style: solid;  
+    border-width: 0px 0px 1px 0px;  
+    border-color: #555; 
+    outline:0; 
+} 
+
+
+#logForm {
+	position: relative;
+	top: 38vh;
+}
+
+body {
+	background: url("../media/login.jpg") no-repeat center center; 
+	background-size: cover;
+	font-family: "Century Gothic", Century, sans-serif; 
+}
