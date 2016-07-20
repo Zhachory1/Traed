@@ -30,7 +30,7 @@ data together.
 
 ## Usage
 
-Go to thetraed.noip.me to register. Once registered, you can login normally and go to the dashboard
+Go to [this site](http://thetraed.noip.me) to register. Once registered, you can login normally and go to the dashboard
 to track your own stocks with a portfolio.
 
 ## Support
