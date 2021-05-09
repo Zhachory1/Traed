@@ -24,15 +24,14 @@ advantageous way. Finally it calculates the candlestick patterns for every stock
 
 ### Notice
 
-There is an algorithm I am using to calculate the price reversal indicator. But as it is patent-
-pending, I will not describe or provide diagrams of how I am calculating and formatting all the 
-data together.
+There is an algorithm I am using to calculate the price reversal indicator. But I will not describe 
+or provide diagrams of how I am calculating and formatting all the data together. Mostly because 
+this is all just testing and I don't want anyone else to think this is a good idea.
 
 ## Usage
 
-Go to [this site](http://thetraed.noip.me) to register. Once registered, you can login normally and go to the dashboard
-to track your own stocks with a portfolio.
+WIP
 
 ## Support
 
-Please [open an issue](https://github.com/Zhachory1/Traed/issues/new) for support.
+WIP
